@@ -1,0 +1,45 @@
+
+/* Class = "UIButton"; configuration.title = "Introduce Me"; ObjectID = "0Xh-Ck-s4C"; */
+"0Xh-Ck-s4C.configuration.title" = "Introduce Me";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "0Xh-Ck-s4C"; */
+"0Xh-Ck-s4C.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "School"; ObjectID = "8Sb-Dg-wdG"; */
+"8Sb-Dg-wdG.placeholder" = "School";
+
+/* Class = "UITextField"; placeholder = "First Name"; ObjectID = "BE7-ja-w4G"; */
+"BE7-ja-w4G.placeholder" = "First Name";
+
+/* Class = "UILabel"; text = "School Name"; ObjectID = "Dke-Je-Q7a"; */
+"Dke-Je-Q7a.text" = "School Name";
+
+/* Class = "UILabel"; text = "Pets"; ObjectID = "Ja9-o7-mEb"; */
+"Ja9-o7-mEb.text" = "Pets";
+
+/* Class = "UISegmentedControl"; PmH-XO-Re4.segmentTitles[0] = "Freshman"; ObjectID = "PmH-XO-Re4"; */
+"PmH-XO-Re4.segmentTitles[0]" = "Freshman";
+
+/* Class = "UISegmentedControl"; PmH-XO-Re4.segmentTitles[1] = "Sophomore"; ObjectID = "PmH-XO-Re4"; */
+"PmH-XO-Re4.segmentTitles[1]" = "Sophomore";
+
+/* Class = "UISegmentedControl"; PmH-XO-Re4.segmentTitles[2] = "Junior"; ObjectID = "PmH-XO-Re4"; */
+"PmH-XO-Re4.segmentTitles[2]" = "Junior";
+
+/* Class = "UISegmentedControl"; PmH-XO-Re4.segmentTitles[3] = "Senior"; ObjectID = "PmH-XO-Re4"; */
+"PmH-XO-Re4.segmentTitles[3]" = "Senior";
+
+/* Class = "UITextField"; placeholder = "Last Name"; ObjectID = "T96-I2-XKu"; */
+"T96-I2-XKu.placeholder" = "Last Name";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "egb-yH-Tpz"; */
+"egb-yH-Tpz.text" = "0";
+
+/* Class = "UILabel"; text = "More Pets ?"; ObjectID = "f2l-wj-NMO"; */
+"f2l-wj-NMO.text" = "More Pets ?";
+
+/* Class = "UILabel"; text = "Last Name"; ObjectID = "qCh-Cn-a8p"; */
+"qCh-Cn-a8p.text" = "Last Name";
+
+/* Class = "UILabel"; text = "First Name"; ObjectID = "x88-Nq-hdc"; */
+"x88-Nq-hdc.text" = "First Name";
